@@ -1,1 +1,1 @@
-resource "null_resource" "eam1psls" {}
+resource "null_resource" "example" {}
